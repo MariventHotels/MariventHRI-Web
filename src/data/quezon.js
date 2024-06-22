@@ -31,7 +31,7 @@ const QuezonOffers = [
     },
     {
         image: '/images/offers/quezon/TourandDine.png',
-        name: 'Tour and Dine',
+        name: 'Day Tour',
         url: 'https://lascasasqc.com/Home/Experiences'
     },
     {

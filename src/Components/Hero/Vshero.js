@@ -26,7 +26,6 @@ function Vshero() {
                     active lifestyle. Our state-of-the-art sports, fitness, and wellness facilities
                     gives one access to unlimited activities and services to choose from.
                 </p>
-
             <Bbuttons>
                 <a href="https://staahmax.staah.net/be/indexpackdetail?propertyId=MzgzMA==&individual=true"><button>INQUIRE NOW</button></a>
                 <a href="https://vshotel.com.ph/SpecialOffers"><button>SEE OFFERS</button></a>
